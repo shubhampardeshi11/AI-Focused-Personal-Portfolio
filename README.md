@@ -21,7 +21,7 @@ I create intelligent, user-centric web apps that bring AI to life. My work bridg
 - **🤖 LLM Chatbot Prototype**  
   Built with OpenAI APIs and a custom frontend  
   Token budgeting, prompt chaining, and chat history  
-  GitHub: [Coming Soon]
+  GitHub: [View Project](https://github.com/shubhampardeshi11/LLM-Chatbot)
 
 - **🌐 Deployments**  
   - [goajazzacademy.com](https://goajazzacademy.com)  
