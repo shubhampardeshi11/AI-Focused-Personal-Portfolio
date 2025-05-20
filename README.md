@@ -16,7 +16,7 @@ I create intelligent, user-centric web apps that bring AI to life. My work bridg
 ### 🚀 Projects  
 - **🧠 Sentiment Analysis Dashboard**  
   NLP-powered app with NLTK + Streamlit for real-time sentiment scoring  
-  GitHub: [View Project](https://github.com/shubhampardeshi11/sentiment-dashboard)
+  GitHub: [View Project](https://github.com/shubhampardeshi11/Sentiment-Analysis-Dashboard--AI-Project-)
 
 - **🤖 LLM Chatbot Prototype**  
   Built with OpenAI APIs and a custom frontend  
